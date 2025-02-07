@@ -1,6 +1,6 @@
 a =10
 def fun1():
-  a = 100 #arshitha
+  a = 100 #yeah I'm arshitha
   b = 200
   print(a)
   print(b)
